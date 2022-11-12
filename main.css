@@ -1,0 +1,498 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+   
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+body {
+    background: #e5e5e5;
+    background-color: #fff;
+}
+
+.container {
+    width: 1218px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+/*  top */ 
+
+.top-1 {
+    padding: 48px 0;
+}
+
+.top-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-3 {
+    display: flex;
+    
+}
+
+.top-4 {
+    margin-left: 30px;
+
+}
+
+.top-5 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+
+/*  hero  */
+
+.hero-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-4 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 25px;
+    width: 419px;
+}
+
+.hero-5 {
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    width: 445px;
+    color: #7D7987;
+    margin-bottom: 45px;
+    
+}
+
+.hero-6 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;    
+    color: #FFFFFF;
+    background: #458FF6;
+    border-radius: 55px;
+    display: inline-block;
+    padding: 0px 41px;
+   
+}
+
+.hero-7{
+    margin: 1px 100px;
+}
+/*  bag   */
+.bag-1{
+    padding: 113px;
+    padding-bottom: 183px;
+}
+.bag-2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 26px;
+}
+.bag-3{
+    display: block;
+    background: #000000;
+    border-radius: 5px;
+    width: 56px;
+    height: 2px;
+    margin: auto;
+    margin-bottom: 36px;
+ }
+.bag-4{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    width: 952px;
+    text-align: center;
+    color: #7D7987;
+    margin: 0 auto;
+    margin-bottom: 82px;
+    
+}
+.bag-5{
+    width: 1122px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+.bag-6{
+    background: #FFFFFF;
+    border-radius: 20px;
+    width: 350px;
+    padding: 54px 45px 46px 39px;
+    margin-bottom: 37px;
+}
+.bag-7{
+    margin-bottom: 22px;
+}
+.bag-8{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #000000;
+}
+.bag-9{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+.bag-10{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+    display: inline-block;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    padding: 0px 51px;
+   
+   
+ }
+ .bag-11{
+    text-align: center;
+ }
+ /*   bot  */ 
+ .bot-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1155px;
+    padding-bottom: 236px;
+ }
+
+
+ 
+ 
+ 
+.bot-5{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 26px;
+    width: 400px;
+}
+.bot-6{
+    display: block;
+    background: #000000;
+    border-radius: 5px;
+    width: 56px;
+    height: 2px;
+    margin-right: auto;
+    margin-left: 5;
+    margin-bottom: 36px;
+
+    
+}
+.bot-7{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    width: 370px;
+    color: #7D7987;
+    margin-bottom: 40px;
+}
+.bot-9{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    display: inline-block;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    padding: 0 50px ;
+}
+
+/*  bil  */
+
+.bil-4{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000;
+    margin-bottom: 30px;
+}
+.bil-5{
+    display: block;
+    background: #000000;
+    border-radius: 5px;
+    width: 56px;
+    height: 2px;
+    margin-right: auto;
+    margin-left: 5;
+    margin-bottom: 36px;
+
+}
+.bil-6{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    width: 330px;
+    color: #7D7987;
+    margin-bottom: 40px;
+}
+.bil-7{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    display: inline-block;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    padding: 0 50px;
+    border-radius: 55px;
+}
+.bil-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1132px;
+    padding-bottom: 239px;
+}
+
+/*   jump  */  
+.container{
+    width: 1120;
+    margin-right: auto;
+    margin-left: auto;
+    
+   
+    
+}
+
+
+
+.jump{
+    width: 1120px;
+    height: 425px;
+    border-radius: 24px;
+    margin-bottom: 216px;
+}
+.jump-1{
+    background-image: url(./img/Rectangle1331.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+   
+   
+
+.jump-2{
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px; 
+   
+    padding: 60px  295px 25px 303px;
+    
+    
+    color: #FFFFFF;
+    }
+    .jump-3{
+        width: 133px ;
+        height: 133px;
+        
+    }
+    .jump-4{
+        background-image: url(./img/MaskGroup.png);
+        background-repeat: no-repeat;
+       margin: 97px 33px 86px 124px;
+        
+    }
+    .jump-7{
+        font-family: 'Mulish';
+   
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    color: #FFFFFF;
+    }
+    .jump-6{
+        font-family: 'Mulish';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: rgba(255, 255, 255, 0.85);
+    }
+   
+    .jump-8{
+        display: flex;
+        align-items: center;
+      
+    } 
+    .jump-9{
+        display: block;
+        background: #ffffff;
+        border-radius: 5px;
+        width: 56px;
+        height: 2px;
+        margin: auto;
+        margin-bottom: 36px;
+    }
+    .jump-12{
+        font-family: 'Mulish';
+       height: 120px; 
+      width: 420px; 
+
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.9);
+  }
+  .zero-2{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+  margin-bottom: 92px;
+  }
+
+
+  /*   sub  */
+  .container{
+    width: 1120px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .sub-3{
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 26px;
+  }
+  .sub-4{
+        display: block;
+        background: #000000;
+        border-radius: 5px;
+        width: 56px;
+        height: 2px;
+        margin: auto;
+        margin-bottom: 36px
+  }
+
+  /*  tig    */
+
+.tig-1{
+    width: 349px;
+    height: 246px;
+    border: 1px solid black;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px; 
+    margin-bottom: 21px;
+}
+.tig-2{
+    background-image: url(./img/covid-19.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tig-3{
+    width: 350px;
+    height: 512px;
+    background: #FFFFFF;
+   
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+.tig-5{
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    width: 251px;
+    height: 64px;
+    margin: 24px 66px 12px 33px;
+    color: #000000;
+ }
+ .tig-6{
+    font-family: 'Mulish';
+    font-weight: 300;
+    font-size: 16px;
+   
+    line-height: 28px;
+    margin: 12px 51px 25px 33px;
+    color: #7D7987;
+ }
+ .tig-7{
+    font-family: 'Mulish';
+    display: inline-block;
+    margin: 0px 33px ;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 28px;
+    color: #4089ED;
+    }
+    .note{
+        width: 349px;
+        height: 246px;
+        border: 1px solid black;
+        border-top-left-radius:20px ;
+        border-top-right-radius: 20px; 
+    }
+    .note-1{
+        background-image: url(./img/mikrasvort.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .book{
+        width: 349px;
+        height: 246px;
+        border: 1px solid black;
+        border-top-left-radius:20px ;
+        border-top-right-radius: 20px; 
+    }
+    .book-1{
+        background-image: url(./img/mokeajiii.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .global{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 72px;
+    }
+    .book-4{
+       
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    display: inline-block;
+    color: #458FF6;
+    border: 1.4px solid #458FF6;
+    padding: 0 50px;
+    border-radius: 55px;
+    
+
+    }
+    .trade{
+        text-align: center;
+        margin-bottom: 50px;
+    }
